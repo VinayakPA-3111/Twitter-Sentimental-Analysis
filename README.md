@@ -1,4 +1,4 @@
-<h1>**Twitter Sentiment Analysis — LSTM Deep Learning Model**</h1>
+<h1>Twitter Sentiment Analysis — LSTM Deep Learning Model</h>>
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)
